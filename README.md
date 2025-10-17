@@ -2,7 +2,7 @@
 <h3>Name:K.Nishal      </h3>
 <h3>Register Number: 2305001021      </h3>
 <H3>Aim:</H3>
-<p>
+<p> 
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
 
